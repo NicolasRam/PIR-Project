@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Ajout d'une petite ligne de comentaire :D
 import time
 import os
 import RPi.GPIO as GPIO
